@@ -1,0 +1,14 @@
+**/jpf-symbc/build/
+**/jpf-core/build/
+**/__pycache__/
+.metals/
+.vscode/
+/BigTest/SymExec/bin
+/BigTest/UDFExtractor/bin
+/BigTest/Rundir/
+/BigTest/BenchmarksFault/bin
+*.class
+*.csv
+/newbench/config/tpcds
+
+/.scala-build/

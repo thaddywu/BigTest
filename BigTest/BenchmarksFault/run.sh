@@ -1,0 +1,1 @@
+java -Xmx16G -cp bin:$CLASSPATH movie.movie2
